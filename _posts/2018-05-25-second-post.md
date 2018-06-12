@@ -1,17 +1,12 @@
 ---
 layout: post
-title: "How do something"
+title: "How do something else"
 excerpt-separator: <!--more-->
-date: 2018-05-27 20:31:06 -0700
+date: 2018-05-25 20:31:06 -0700
 comments: false
 ---
 
-<img class="pull-right img-responsive" src="https://creativecommons.org/images/deed/cc_icon_white_x2.png"/>
-Welcome to my first post at this blog.
-<p/>
-More Text
-<p/>
-Even more
+Welcome to my second post at this blog.
 
 <!--more-->
 
